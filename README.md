@@ -2,6 +2,7 @@
 
 ##  Repository Overview
 
+[Full Research Report: Ferroelectrics (PDF)](https://github.com/ishanyaa/Ferroelectrics/blob/main/FerroElectrics_Report_Ishanya.pdf)
 This repository contains the report and supplementary material detailing the fundamental concepts, operation, advantages, disadvantages, and applications of three prominent next-generation ferroelectric memory technologies: **FeRAM**, **FeFET**, and **FTJ**.
 
 The work explores how these devices address the scaling limitations of conventional memory and contribute to the ongoing evolution of the semiconductor industry under Moore's Law.
