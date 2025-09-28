@@ -58,4 +58,4 @@ The concepts presented in this report are based on the following literature:
 
 ##  Author
 
-* **GitHub:** `ishanyaa`
+* **GitHub:** `Ishanya`
